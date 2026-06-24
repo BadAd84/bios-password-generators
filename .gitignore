@@ -1,0 +1,3 @@
+# Firmware chip dumps — proprietary Dell/Insyde BIOS, machine-identifying.
+# Kept out of the repo by default. Remove this line to track them.
+*.bin
